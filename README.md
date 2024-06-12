@@ -2,6 +2,7 @@
 
 ![gtsrbDatensatz](https://github.com/MK2345/GTSRB-DL-ML/assets/24621381/bcfce9d8-655d-4837-8be3-2791e8775f92)
 
+# Histogram equalization
 ![GTSRB_Hist_eq](https://github.com/MK2345/GTSRB-DL-ML/assets/24621381/02700502-6f0c-4593-b31d-495c28f9d659)
 ![GTSRB_Hist_eq_v](https://github.com/MK2345/GTSRB-DL-ML/assets/24621381/5611f024-3e9b-4804-a4c7-5163580a99f2)
 ![GTSRB_HOG](https://github.com/MK2345/GTSRB-DL-ML/assets/24621381/19117e85-b5ee-4941-8c28-fb00ee86d7d1)
