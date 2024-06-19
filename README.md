@@ -1,6 +1,6 @@
 # GTSRB-DL-ML
 
-You will find some SVM and CNN-Models from me in the master branch.
+You will find some SVMs and CNNs from me in the master branch.
 
 
 
