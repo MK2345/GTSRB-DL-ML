@@ -6,6 +6,9 @@ You will find some SVM and CNN-Models from me in the master branch.
 
 
 # Class distribution
+
+The training data set is imbalanced.
+
 ![stratified_distribution_39209_gtsrb](https://github.com/MK2345/GTSRB-DL-ML/assets/24621381/47592cfc-13ac-4c51-a170-40288825d2e6)
 
 # Stratified class density distribution for 500 images
