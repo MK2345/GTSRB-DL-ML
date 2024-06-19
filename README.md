@@ -25,6 +25,9 @@ The pictures were taken under different weather conditions. The contrast of low-
 ![GTSRB_Hist_eq_v](https://github.com/MK2345/GTSRB-DL-ML/assets/24621381/5611f024-3e9b-4804-a4c7-5163580a99f2)
 
 # HOG-Features
+
+The SVMs were trained with HOG features of the images, among other things.
+
 ![GTSRB_HOG](https://github.com/MK2345/GTSRB-DL-ML/assets/24621381/19117e85-b5ee-4941-8c28-fb00ee86d7d1)
 
 
