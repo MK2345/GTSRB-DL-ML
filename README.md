@@ -18,6 +18,9 @@ The training data set is imbalanced.
 ![plot_39209](https://github.com/MK2345/GTSRB-DL-ML/assets/24621381/0df62558-6641-41bc-8b1a-6f9e64779174)
 
 # Histogram equalization
+
+The pictures were taken under different weather conditions. The contrast of low-contrast images was increased by means of histogram equalization.
+
 ![GTSRB_Hist_eq](https://github.com/MK2345/GTSRB-DL-ML/assets/24621381/02700502-6f0c-4593-b31d-495c28f9d659)
 ![GTSRB_Hist_eq_v](https://github.com/MK2345/GTSRB-DL-ML/assets/24621381/5611f024-3e9b-4804-a4c7-5163580a99f2)
 
