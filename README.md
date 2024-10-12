@@ -1,5 +1,9 @@
 # Traffic Sign Classification using Deep Learning and Machine Learning
 
+This project uses the German Traffic Sign Recognition Benchmark (GTSRB), a large dataset of more than
+50,000 traffic sing images in 43 classes. The GTSRB is widely used for evaluating machine learning
+and computer vision algorithms in the context of traffic sign recognition.
+
 You will find several SVM and CNN models I created in the master branch.
 
 
