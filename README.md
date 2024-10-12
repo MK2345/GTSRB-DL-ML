@@ -1,7 +1,7 @@
 # Traffic Sign Classification using Deep Learning and Machine Learning
 
 This project uses the German Traffic Sign Recognition Benchmark (GTSRB), a large dataset of more than
-50,000 traffic sing images in 43 classes. The GTSRB is widely used for evaluating machine learning
+50,000 traffic sign images in 43 classes. The GTSRB is widely used for evaluating machine learning
 and computer vision algorithms in the context of traffic sign recognition.
 
 You will find several SVM and CNN models I created in the master branch.
@@ -16,20 +16,22 @@ Below are some sample images of the dataset.
 ### Class distribution:
 
 The training dataset is imbalanced, with significant variations in the number of samples across different
-traffic sign classes. This imablance is an important characteristic of the GTSRB dataset and reflects the
+traffic sign classes. This imbalance is an important characteristic of the GTSRB dataset and reflects the
 real-world frequency of different traffic signs.
 
 Key points about the class distribution:
 1. Some classes are overrepresented with thousands of samples.
 2. Other classes are underrepresented with only a few hundred samples.
-3. This imabalance can affect model performance and requires careful consideration during training and evaluation.
+3. This imbalance can affect model performance and requires careful consideration during training and evaluation.
+
+To address this imbalance, I employed techniques such as using class weights and Data augmentation.
 
 ![stratified_distribution_39209_gtsrb](https://github.com/MK2345/GTSRB-DL-ML/assets/24621381/47592cfc-13ac-4c51-a170-40288825d2e6)
 
-# Stratified class density distribution for 500 images
+# Stratified Class Density Visualization (500 Images)
 ![plot_500](https://github.com/MK2345/GTSRB-DL-ML/assets/24621381/b4c90437-8c86-4cca-9812-7cb90bfb6acd)
 
-# Stratified class density distribution for the whole dataset
+# Stratified Class Density Visualization (whole dataset)
 ![plot_39209](https://github.com/MK2345/GTSRB-DL-ML/assets/24621381/0df62558-6641-41bc-8b1a-6f9e64779174)
 
 # Histogram equalization
