@@ -1,4 +1,4 @@
-# GTSRB-DL-ML
+# Traffic Sign Classification using Deep Learning and Machine Learning
 
 You will find several SVM and CNN models I created in the master branch.
 
