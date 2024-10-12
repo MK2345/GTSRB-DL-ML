@@ -1,10 +1,10 @@
 # GTSRB-DL-ML
 
-You will find some SVMs and CNNs from me in the master branch.
+You will find several SVM and CNN models I created in the master branch.
 
 
 
-Here are some images of the data set.
+Below are some sample images of the dataset.
 
 ![gtsrbDatensatz](https://github.com/MK2345/GTSRB-DL-ML/assets/24621381/bcfce9d8-655d-4837-8be3-2791e8775f92)
 
