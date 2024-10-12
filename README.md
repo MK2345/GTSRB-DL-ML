@@ -13,9 +13,16 @@ Below are some sample images of the dataset.
 ![gtsrbDatensatz](https://github.com/MK2345/GTSRB-DL-ML/assets/24621381/bcfce9d8-655d-4837-8be3-2791e8775f92)
 
 
-# Class distribution
+### Class distribution:
 
-The training data set is imbalanced.
+The training dataset is imbalanced, with significant variations in the number of samples across different
+traffic sign classes. This imablance is an important characteristic of the GTSRB dataset and reflects the
+real-world frequency of different traffic signs.
+
+Key points about the class distribution:
+1. Some classes are overrepresented with thousands of samples.
+2. Other classes are underrepresented with only a few hundred samples.
+3. This imabalance can affect model performance and requires careful consideration during training and evaluation.
 
 ![stratified_distribution_39209_gtsrb](https://github.com/MK2345/GTSRB-DL-ML/assets/24621381/47592cfc-13ac-4c51-a170-40288825d2e6)
 
