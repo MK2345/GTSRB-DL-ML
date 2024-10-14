@@ -41,9 +41,11 @@ Key points about the class distribution:
 To address this imbalance, I employed techniques such as using class weights and Data augmentation.
 
 ![stratified_distribution_39209_gtsrb](https://github.com/MK2345/GTSRB-DL-ML/assets/24621381/47592cfc-13ac-4c51-a170-40288825d2e6)
-
+<br>
 ### Stratified Class Density Visualization (500 Images)
 ![plot_500](https://github.com/MK2345/GTSRB-DL-ML/assets/24621381/b4c90437-8c86-4cca-9812-7cb90bfb6acd)
+
+<br>
 
 ### Stratified Class Density Visualization (whole dataset)
 ![plot_39209](https://github.com/MK2345/GTSRB-DL-ML/assets/24621381/0df62558-6641-41bc-8b1a-6f9e64779174)
