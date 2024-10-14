@@ -6,7 +6,7 @@ and computer vision algorithms in the context of traffic sign recognition.
 
 You will find several SVM and CNN models I created in the master branch.
 
-
+<br>
 ### Model Development and Optimization
 
 Multiple SVM and CNN models were trained with varying amounts of training data to determine the threshold
@@ -17,13 +17,13 @@ enhancement and feature extraction. These preprocessing steps were implemented t
 data and to extract relevant features, thereby potentially enhancing the overall performance of the models.
 
 
-
+<br>
 ### Below are some sample images of the dataset.
 
 
 ![gtsrbDatensatz](https://github.com/MK2345/GTSRB-DL-ML/assets/24621381/bcfce9d8-655d-4837-8be3-2791e8775f92)
 
-
+<br>
 ### Class Distribution:
 
 The training dataset is imbalanced, with significant variations in the number of samples across different
