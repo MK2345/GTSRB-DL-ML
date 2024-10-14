@@ -43,7 +43,8 @@ To address this imbalance, I employed techniques such as using class weights and
 
 ### Histogram equalization
 
-The pictures were taken under different weather conditions. The contrast of low-contrast images was increased by means of histogram equalization.
+The pictures were taken under various weather conditions, and the contrast of low-contrast images was enhanced through histogram 
+equalization, a technique that redistributes pixel intensity values.
 
 ![GTSRB_Hist_eq](https://github.com/MK2345/GTSRB-DL-ML/assets/24621381/02700502-6f0c-4593-b31d-495c28f9d659)
 ![GTSRB_Hist_eq_v](https://github.com/MK2345/GTSRB-DL-ML/assets/24621381/5611f024-3e9b-4804-a4c7-5163580a99f2)
