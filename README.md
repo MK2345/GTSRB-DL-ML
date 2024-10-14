@@ -8,11 +8,15 @@ and computer vision algorithms in the context of traffic sign recognition.
 
 Multiple SVM and CNN models were trained with varying amounts of training data to determine the threshold 
 at which one model type outperforms the other. Additionally, to ensure optimal performance Grid Search was 
-utilized for hyperparameter tuning of select models
+utilized for hyperparameter tuning of select models.
+Depending on the specific model requirements, image preprocessing techniques were applied, including image 
+enhancement and feature extraction.
+These preprocessing steps were implemented to improve the quality of input data and to extract relevant 
+features, thereby potentially enhancing the overall performance of the models.
 
 
 
-Below are some sample images of the dataset.
+### Below are some sample images of the dataset.
 
 ![gtsrbDatensatz](https://github.com/MK2345/GTSRB-DL-ML/assets/24621381/bcfce9d8-655d-4837-8be3-2791e8775f92)
 
