@@ -7,8 +7,19 @@ and computer vision algorithms in the context of traffic sign recognition.
 You will find several SVM and CNN models I created in the master branch.
 
 
+### Model Development and Optimization
 
-Below are some sample images of the dataset.
+Multiple SVM and CNN models were trained with varying amounts of training data to determine the threshold
+at which one model type outperforms the other. Additionally, to ensure optimal performance, Grid Search was
+utilized for hyperparameter tuning of select models.
+Depending on the specific model requirements, image preprocessing techniques were applied, including image
+enhancement and feature extraction. These preprocessing steps were implemented to improve the quality of input 
+data and to extract relevant features, thereby potentially enhancing the overall performance of the models.
+
+
+
+### Below are some sample images of the dataset.
+
 
 ![gtsrbDatensatz](https://github.com/MK2345/GTSRB-DL-ML/assets/24621381/bcfce9d8-655d-4837-8be3-2791e8775f92)
 
@@ -48,9 +59,4 @@ The SVMs were trained with HOG features of the images, among other things.
 ![GTSRB_HOG](https://github.com/MK2345/GTSRB-DL-ML/assets/24621381/19117e85-b5ee-4941-8c28-fb00ee86d7d1)
 
 
-### Model Development and Optimization
 
-Multiple SVM and CNN models were trained with varying amounts of training data to determine the threshold 
-at which one model type outperforms the other. Additionally, to ensure optimal performance Grid Search was 
-utilized for hyperparameter tuning of select models
-  
