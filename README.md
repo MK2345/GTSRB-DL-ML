@@ -6,13 +6,12 @@ and computer vision algorithms in the context of traffic sign recognition.
 
 ### Model Development and Optimization
 
-Multiple SVM and CNN models were trained with varying amounts of training data to determine the threshold 
-at which one model type outperforms the other. Additionally, to ensure optimal performance Grid Search was 
+Multiple SVM and CNN models were trained with varying amounts of training data to determine the threshold
+at which one model type outperforms the other. Additionally, to ensure optimal performance, Grid Search was
 utilized for hyperparameter tuning of select models.
-Depending on the specific model requirements, image preprocessing techniques were applied, including image 
-enhancement and feature extraction.
-These preprocessing steps were implemented to improve the quality of input data and to extract relevant 
-features, thereby potentially enhancing the overall performance of the models.
+Depending on the specific model requirements, image preprocessing techniques were applied, including image
+enhancement and feature extraction. These preprocessing steps were implemented to improve the quality of input 
+data and to extract relevant features, thereby potentially enhancing the overall performance of the models.
 
 
 
