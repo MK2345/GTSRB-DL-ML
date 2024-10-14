@@ -4,7 +4,11 @@ This project uses the German Traffic Sign Recognition Benchmark (GTSRB), a large
 50,000 traffic sign images in 43 classes. The GTSRB is widely used for evaluating machine learning
 and computer vision algorithms in the context of traffic sign recognition.
 
-You will find several SVM and CNN models I created in the master branch.
+### Model Development and Optimization
+
+Multiple SVM and CNN models were trained with varying amounts of training data to determine the threshold 
+at which one model type outperforms the other. Additionally, to ensure optimal performance Grid Search was 
+utilized for hyperparameter tuning of select models
 
 
 
@@ -48,9 +52,5 @@ The SVMs were trained with HOG features of the images, among other things.
 ![GTSRB_HOG](https://github.com/MK2345/GTSRB-DL-ML/assets/24621381/19117e85-b5ee-4941-8c28-fb00ee86d7d1)
 
 
-### Model Development and Optimization
 
-Multiple SVM and CNN models were trained with varying amounts of training data to determine the threshold 
-at which one model type outperforms the other. Additionally, to ensure optimal performance Grid Search was 
-utilized for hyperparameter tuning of select models
   
