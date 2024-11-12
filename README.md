@@ -58,6 +58,7 @@ The SVMs were trained using HOG features extracted from the images, among other 
 
 ### Classification results as a function of the training set
 
+The best results were achieved with a CNN with 6 layers and data augmentation up to the original total amount.
 
 <img src="img/results.png">
 <img src="img/models.png">
@@ -67,6 +68,8 @@ The SVMs were trained using HOG features extracted from the images, among other 
 On the left the image to be classified, on the right the misclassified image.
 
 <img src="img/minority_class.png">
+
+
 
 #### Classification results of the minority class 0
 <img src="img/minority_class_F1.png">
