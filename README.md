@@ -35,11 +35,16 @@ To address this imbalance, I employed techniques such as using class weights and
 
 ![stratified_distribution_39209_gtsrb](https://github.com/MK2345/GTSRB-DL-ML/assets/24621381/47592cfc-13ac-4c51-a170-40288825d2e6)
 
+
 ### Stratified Class Density Visualization (500 Images)
 ![plot_500](https://github.com/MK2345/GTSRB-DL-ML/assets/24621381/b4c90437-8c86-4cca-9812-7cb90bfb6acd)
 
+
+
 ### Stratified Class Density Visualization (whole dataset)
 ![plot_39209](https://github.com/MK2345/GTSRB-DL-ML/assets/24621381/0df62558-6641-41bc-8b1a-6f9e64779174)
+
+
 
 ### Histogram equalization
 
@@ -49,11 +54,14 @@ equalization, a technique that redistributes pixel intensity values.
 ![GTSRB_Hist_eq](https://github.com/MK2345/GTSRB-DL-ML/assets/24621381/02700502-6f0c-4593-b31d-495c28f9d659)
 ![GTSRB_Hist_eq_v](https://github.com/MK2345/GTSRB-DL-ML/assets/24621381/5611f024-3e9b-4804-a4c7-5163580a99f2)
 
+
+
 ### HOG-Features
 
 The SVMs were trained using HOG features extracted from the images, among other features
 
 ![GTSRB_HOG](https://github.com/MK2345/GTSRB-DL-ML/assets/24621381/19117e85-b5ee-4941-8c28-fb00ee86d7d1)
+
 
 
 ### Classification results as a function of the training set
@@ -64,7 +72,7 @@ The best results were achieved with a CNN with 6 layers and data augmentation up
 <img src="img/models.png">
 
 
-#### Example of a minority class 0
+#### Example: minority class 0
 On the left the image to be classified, on the right the misclassified image.
 
 <img src="img/minority_class.png">
