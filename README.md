@@ -56,5 +56,12 @@ The SVMs were trained using HOG features extracted from the images, among other 
 ![GTSRB_HOG](https://github.com/MK2345/GTSRB-DL-ML/assets/24621381/19117e85-b5ee-4941-8c28-fb00ee86d7d1)
 
 
+<img src="img/results.png">
+<img src="img/models.png">
 
+<img src="img/minority_class.png">
+
+
+<img src="img/minority_class_F1.png">
   
+<img src="img/minority_class_prec_rec.png">
